@@ -5,7 +5,7 @@
 - <b>Soccer Hub Project</b>
   - [Practicing using API's](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Object-Oriented Programming</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Interface OOP Technique: FinalGrade.Java](https://github.com/RaulJRodriguez/Object-Oriented-Programming)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
