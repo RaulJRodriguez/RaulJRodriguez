@@ -8,7 +8,7 @@
   - [Student Grade Calculator](https://github.com/RaulJRodriguez/Object-Oriented-Programming)
   - [Book Collection Management Program](https://github.com/RaulJRodriguez/BookCollection)
   - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
 - <b>Procedural Programming</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
