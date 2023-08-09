@@ -11,7 +11,7 @@
   - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
 - <b>Procedural Programming</b>
   - [BMI Calculator](https://github.com/RaulJRodriguez/BMICalculator)
-  - [Quiz Grading System](https://github.com/RaulJRodriguez/QuizGrader)
+  - [Quiz Grading System](https://github.com/RaulJRodriguez/QuizGrading)
 - <b>AWS</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
