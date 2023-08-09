@@ -11,8 +11,7 @@
   - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
 - <b>Procedural Programming</b>
   - [BMI Calculator](https://github.com/RaulJRodriguez/BMICalculator)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Quiz Grading System](https://github.com/RaulJRodriguez/QuizGrader)
 - <b>AWS</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
