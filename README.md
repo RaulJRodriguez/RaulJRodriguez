@@ -10,7 +10,7 @@
   - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
   - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
 - <b>Procedural Programming</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [BMI Calculator](https://github.com/RaulJRodriguez/BMICalculator)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>AWS</b>
