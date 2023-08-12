@@ -5,10 +5,10 @@
 - <b>Soccer Hub Project</b>
   - [Practicing using API's](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Object-Oriented Programming</b>
-  - [Student Grade Calculator](https://github.com/RaulJRodriguez/Object-Oriented-Programming)
-  - [Book Collection Management Program](https://github.com/RaulJRodriguez/BookCollection)
-  - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
   - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
+  - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
+  - [Book Collection Management Program](https://github.com/RaulJRodriguez/BookCollection)
+  - [Student Grade Calculator](https://github.com/RaulJRodriguez/Object-Oriented-Programming)
 - <b>Procedural Programming</b>
   - [BMI Calculator](https://github.com/RaulJRodriguez/BMICalculator)
   - [Quiz Grading System](https://github.com/RaulJRodriguez/QuizGrading)
