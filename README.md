@@ -13,12 +13,10 @@
   - [BMI Calculator](https://github.com/RaulJRodriguez/BMICalculator)
   - [Quiz Grading System](https://github.com/RaulJRodriguez/QuizGrading)
 - <b>AWS</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [AWS Serverless Bakery Web App](https://github.com/RaulJRodriguez/ServerlessAWS)
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="RaulJRodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RaulJRodriguez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/rxulrodriguez/
 [linkedin]: https://linkedin.com/in/rauljrodriguez/
