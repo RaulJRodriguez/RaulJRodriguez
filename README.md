@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Soccer Hub Project</b>
-  - [Practicing using API's](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Object-Oriented Programming</b>
   - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
   - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
