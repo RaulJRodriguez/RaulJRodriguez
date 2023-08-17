@@ -3,7 +3,6 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Object-Oriented Programming</b>
-  - [Payroll Solution](https://github.com/RaulJRodriguez/PayrollSolution)
   - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
   - [Book Collection Management Program](https://github.com/RaulJRodriguez/BookCollection)
   - [Student Grade Calculator](https://github.com/RaulJRodriguez/Object-Oriented-Programming)
