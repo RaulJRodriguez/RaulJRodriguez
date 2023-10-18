@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Azure - AI Translator App</b>
+  - [GlobalSpeaks - An AI Translator Application](https://github.com/RaulJRodriguez/AI-Translator-App)
+- <b>AWS</b>
+  - [SweetCrumbs - AWS Serverless Bakery Web App](https://github.com/RaulJRodriguez/ServerlessAWS)
 - <b>Object-Oriented Programming</b>
   - [Academic Advisor Tracking System](https://github.com/RaulJRodriguez/AcademicAdvisingTracker)
   - [Book Collection Management Program](https://github.com/RaulJRodriguez/BookCollection)
@@ -9,8 +13,6 @@
 - <b>Procedural Programming</b>
   - [BMI Calculator](https://github.com/RaulJRodriguez/BMICalculator)
   - [Quiz Grading System](https://github.com/RaulJRodriguez/QuizGrading)
-- <b>AWS</b>
-  - [AWS Serverless Bakery Web App](https://github.com/RaulJRodriguez/ServerlessAWS)
 
 <h2> 🤳 Connect with me:</h2>
 
